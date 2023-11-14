@@ -1,0 +1,23 @@
+{
+    "name": "codember-2023",
+    "version": "1.0.0",
+    "description": "Retos de programación",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/cristianorregodev/codember-2023.git"
+    },
+    "keywords": [
+        "javascript"
+    ],
+    "author": "@cristianorregodev",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/cristianorregodev/codember-2023/issues"
+    },
+    "homepage": "https://github.com/cristianorregodev/codember-2023#readme"
+}

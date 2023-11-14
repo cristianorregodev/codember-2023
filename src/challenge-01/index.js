@@ -1,3 +1,4 @@
+import { text } from './input.js'
 function analyzeText(textToAnalyze) {
     //!Validation for null or undefined text to analyze
     if (textToAnalyze === null || textToAnalyze === undefined) {

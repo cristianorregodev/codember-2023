@@ -1,6 +1,6 @@
 # Solución retos [Codember 2023](<[Codember](https://codember.dev)>)
 
-<img src="https://codember.dev/og.png" style="height: 200px; width: 100%; object-fit: cover;">
+<img src="https://codember.dev/og.png" style="height: 300px; width: 100%; object-fit: cover; object-position: center center">
 
 ## Lista de retos 🧑‍💻
 
